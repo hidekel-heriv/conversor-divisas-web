@@ -22,5 +22,4 @@ Aplicación web para convertir entre diferentes monedas usando tasas de cambio e
 https://conversordivisas.z41.web.core.windows.net/
 
 ## Video de Presentación  
-El video se encuentra en la tarea asignada en Microsoft Teams.  
-Y en https://conversordivisas.blob.core.windows.net/cont01/ACTIVIDAD%205-HERNANDEZ%20RIVERO%20HIDEKEL.mp4
+El video se encuentra en https://conversordivisas.blob.core.windows.net/cont01/ACTIVIDAD%205-HERNANDEZ%20RIVERO%20HIDEKEL.mp4
