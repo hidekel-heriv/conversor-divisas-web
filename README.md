@@ -3,8 +3,8 @@
 Aplicación web para convertir entre diferentes monedas usando tasas de cambio en tiempo real.
 
 ## Características
-- Interfaz responsive y animada
-- Integración con API Frankfurter (gratis)
+- Interfaz responsiva y animada
+- Integración con API Frankfurter.
 - Validación de entradas
 - Historial de conversiones
 
